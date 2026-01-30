@@ -17,7 +17,7 @@
 		"lodash": "^4.17.21"
 	},
 	"devDependencies": {
-		"@companion-module/tools": "^1.5.1",
+		"@companion-module/tools": "^1.5.2",
 		"@eslint/js": "^9.21.0",
 		"eslint": "^9.21.0",
 		"eslint-config-prettier": "^10.0.1",
