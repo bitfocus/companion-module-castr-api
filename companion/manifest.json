@@ -3,7 +3,7 @@
 	"name": "castr-api",
 	"shortname": "castr-api",
 	"description": "castr.io API",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"repository": "git+https://github.com/m1tk4/companion-module-castr-api.git",
 	"bugs": "https://github.com/m1tk4/companion-module-castr-api/issues",
@@ -15,7 +15,7 @@
 	],
 	"legacyIds": [],
 	"runtime": {
-		"type": "node18",
+		"type": "node26",
 		"api": "nodejs-ipc",
 		"apiVersion": "0.0.0",
 		"entrypoint": "../index.js"
